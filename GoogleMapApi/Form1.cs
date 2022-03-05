@@ -692,7 +692,6 @@ namespace GoogleMapApi
                 gMapControl1.Zoom = 9;
 
                 
-                
             }
         }
 
