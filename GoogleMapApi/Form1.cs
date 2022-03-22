@@ -141,8 +141,6 @@ namespace GoogleMapApi
             gMapControl1.ShowCenter = true;
 
             gMapControl1.Zoom = 12;
-
-
         }
 
         //Marker 버튼. 지도 하단에 위치 
